@@ -109,12 +109,3 @@ This project uses GitHub Actions for continuous integration. The pipeline automa
 
 ## Configuration
 Edit `config.yaml` to customize training parameters, model settings, and deployment configurations.
-
-## Contributing
-Pull requests are welcome. Please ensure tests pass before submitting.
-
-## License
-MIT License
-
-## Contact
-Your Name - your.email@example.com
