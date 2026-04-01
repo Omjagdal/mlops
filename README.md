@@ -167,14 +167,6 @@ GitHub Actions will automatically:
 
 ---
 
-## 🧑‍💻 Author
-
-**Om Jagdale**
-
-* GitHub: https://github.com/Omjagdal
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome!
