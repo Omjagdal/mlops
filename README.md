@@ -178,10 +178,4 @@ Contributions are welcome!
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
-
 [1]: https://github.com/microsoft/MLOps?utm_source=chatgpt.com "microsoft/MLOps: MLOps examples"
