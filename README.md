@@ -167,14 +167,3 @@ GitHub Actions will automatically:
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome!
-
-1. Fork the repository
-2. Create a branch
-3. Commit your changes
-
----
-
-[1]: https://github.com/microsoft/MLOps?utm_source=chatgpt.com "microsoft/MLOps: MLOps examples"
